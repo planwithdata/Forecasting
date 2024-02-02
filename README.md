@@ -1,4 +1,4 @@
-# Forecasting_SARIMAX_and-FBProbhet
+# Forecasting_SARIMAX_and-FBProphet
 
 ## Richmond Region ZHVI Forecasting
 
