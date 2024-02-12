@@ -14,15 +14,15 @@ This project aims to forecast the Zillow Home Value Index (ZHVI) across the Rich
 
 ### Example Plots
 
-![Forecast % ZHVI](https://github.com/planwithdata/Forecasting/blob/SARIMA_and_FbProphetModel/plot_1.png?raw=true)
+![Forecast % ZHVI](https://github.com/planwithdata/Forecasting/blob/Forecasting_1/plot_1.png)
 
-![Hist&Forecast Grouped by County](https://github.com/planwithdata/Forecasting/blob/SARIMA_and_FbProphetModel/plot_12.png?raw=true)
+![Hist&Forecast Grouped by County](https://github.com/planwithdata/Forecasting/blob/Forecasting_1//plot_12.png?raw=true)
 
-![Entire Dataset by County](https://github.com/planwithdata/Forecasting/blob/SARIMA_and_FbProphetModel/plot_13.png?raw=true)
+![Entire Dataset by County](https://github.com/planwithdata/Forecasting/blob/Forecasting_1//plot_13.png?raw=true)
 
-![Forecast prices VA Counties](https://github.com/planwithdata/Forecasting/blob/SARIMA_and_FbProphetModel/plot_15.png?raw=true)
+![Forecast prices VA Counties](https://github.com/planwithdata/Forecasting/blob/Forecasting_1//plot_15.png?raw=true)
 
-![Forecast % ZHVI 2](https://github.com/planwithdata/Forecasting/blob/SARIMA_and_FbProphetModel/plot_2.png?raw=true)
+![Forecast % ZHVI 2](https://github.com/planwithdata/Forecasting/blob/Forecasting_1//plot_2.png?raw=true)
 
 
 ### Motivation
