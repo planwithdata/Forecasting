@@ -16,6 +16,8 @@ This project aims to forecast the Zillow Home Value Index (ZHVI) across the Rich
 
 ![Forecast % ZHVI](https://github.com/planwithdata/Forecasting/blob/Forecasting_1/plot_1.png)
 
+![Test_RSME](https://github.com/planwithdata/Forecasting/blob/Forecasting_1/plot_3.png)
+
 ![Hist&Forecast Grouped by County](https://github.com/planwithdata/Forecasting/blob/Forecasting_1//plot_12.png?raw=true)
 
 ![Entire Dataset by County](https://github.com/planwithdata/Forecasting/blob/Forecasting_1//plot_13.png?raw=true)
