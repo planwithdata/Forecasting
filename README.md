@@ -13,11 +13,17 @@ This project aims to forecast the Zillow Home Value Index (ZHVI) across the Rich
 - Visualization: Incorporates maps and county estimates to provide a clear visual understanding of current and future housing market conditions in the Richmond Region.
 
 ### Example Plots
-![Forecast_%_ZHVI](https://github.com/planwithdata/Forecasting/blob/SARIMA_and_FbProphetModel/plot_1.png)
-![Hist&Forecast_GroupedbyCounty](https://github.com/planwithdata/Forecasting/blob/SARIMA_and_FbProphetModel/plot_12.png)
-![Entire Dataset_byCounty](https://github.com/planwithdata/Forecasting/blob/SARIMA_and_FbProphetModel/plot_13.png)
-![Forecast_prices_VA_Counties](https://github.com/planwithdata/Forecasting/blob/SARIMA_and_FbProphetModel/plot_15.png)
-![Forecast_%_ZHVI_2](https://github.com/planwithdata/Forecasting/blob/SARIMA_and_FbProphetModel/plot_2.png)
+
+![Forecast % ZHVI](https://github.com/planwithdata/Forecasting/blob/SARIMA_and_FbProphetModel/plot_1.png?raw=true)
+
+![Hist&Forecast Grouped by County](https://github.com/planwithdata/Forecasting/blob/SARIMA_and_FbProphetModel/plot_12.png?raw=true)
+
+![Entire Dataset by County](https://github.com/planwithdata/Forecasting/blob/SARIMA_and_FbProphetModel/plot_13.png?raw=true)
+
+![Forecast prices VA Counties](https://github.com/planwithdata/Forecasting/blob/SARIMA_and_FbProphetModel/plot_15.png?raw=true)
+
+![Forecast % ZHVI 2](https://github.com/planwithdata/Forecasting/blob/SARIMA_and_FbProphetModel/plot_2.png?raw=true)
+
 
 ### Motivation
 With the real estate market's dynamic nature, having accurate and localized forecasts of housing prices is crucial for a wide range of stakeholders, including investors, policymakers, and individuals looking to buy or sell properties. This project addresses this need by offering detailed predictions of housing market trends, enabling informed decision-making based on comprehensive data analysis.
