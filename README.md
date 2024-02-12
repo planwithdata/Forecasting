@@ -21,5 +21,5 @@ To get started with this project, clone the repository and follow the setup inst
 ### Contributing
 We welcome contributions from the community! If you have suggestions for improving the forecasts or extending the analysis to additional regions, please see the CONTRIBUTING.md file for how to get involved.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+### License
+This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details.
